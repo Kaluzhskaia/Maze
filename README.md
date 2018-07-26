@@ -11,7 +11,7 @@ Preview of the generation algorithm of a square maze:
 
 Completed maze:
 
-![Bigger maze example](https://github.com/Kaluzhskaia/finding-shortest-path-in-a-maze/blob/master/bigmaze.jpg=)
+![Bigger maze example](https://github.com/Kaluzhskaia/finding-shortest-path-in-a-maze/blob/master/bigmaze.jpg)
 
 Example outputs of path finding algorithms (bottom pictures show the final found path):
 
