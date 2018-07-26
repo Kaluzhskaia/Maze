@@ -15,8 +15,13 @@ Completed maze:
 
 Example outputs of path finding algorithms (bottom pictures show the final found path):
 
+Example 1:
+
+
 ![Path finding example](https://github.com/Kaluzhskaia/finding-shortest-path-in-a-maze/blob/master/mazealgorithms.png)
 
+
+Example 2:
 
 
 ![Path finding example 2](https://github.com/Kaluzhskaia/finding-shortest-path-in-a-maze/blob/master/mazealgorithms2.png)
